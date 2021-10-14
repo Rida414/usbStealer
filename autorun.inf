@@ -1,0 +1,4 @@
+[Autorun]
+Icon=jerry.ico
+Label=personal-drive
+attrib -h -s -r \BrowsingHistoryView.exe >nul
